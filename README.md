@@ -18,4 +18,4 @@ Run the application:
 
 1. mvn clean install tomcat:run
 2. Open browser http://localhost:8080
-3. Enter customerId starting either '110000' for LIVERPOOL & '220000' for LONDON locations.
+
