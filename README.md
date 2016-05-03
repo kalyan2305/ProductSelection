@@ -16,6 +16,6 @@ ProductSelection application is a spring mvc web application to get the product 
 
 Run the application:
 
-> mvn clean install tomcat:run
-> Open browser http://localhost:8080
-> Enter customerId starting either '110000' for LIVERPOOL & '220000' for LONDON locations.
+1. mvn clean install tomcat:run
+2. Open browser http://localhost:8080
+3. Enter customerId starting either '110000' for LIVERPOOL & '220000' for LONDON locations.
