@@ -1,6 +1,6 @@
 # ProductSelection
 
-Prequesties:
+Prequesties
 1. Java 1.8
 2. Maven 3
 
