@@ -1,8 +1,9 @@
 # ProductSelection
 
 Prequesties
-1. Java 1.8
-2. Maven 3
+-------------
+  1. Java 1.8
+  2. Maven 3
 
 Setup Java / Maven environment before running the application.
 
